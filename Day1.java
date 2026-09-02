@@ -12,3 +12,7 @@ public class Main {
  * Ini adalah komentar
  * yang terdiri dari beberapa baris
 */
+
+/**
+ * ini adalah komentar untuk dokumentasi
+ */
