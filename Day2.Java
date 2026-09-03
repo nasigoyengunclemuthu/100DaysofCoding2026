@@ -4,7 +4,7 @@ public class biodatadiri {
     // String untuk menyimpan teks 
     String nama = "Abi mael al rajab";
     String alamat = "Campalagian";
-    Int umur = 18;
+    int umur = 18;
       //Println itu na cetak baru pindah garis baru 
       System.out.println("-------------");
       System.out.println(" biodatadiri ");
@@ -13,7 +13,7 @@ public class biodatadiri {
 
       //Print itu na cetak tapi ndak pindah garis
       System.out.print("nama : ");
-      System.out.print(Abi mael al rajab);
+      System.out.println(Abi mael al rajab);
 
       //Printf itu na cetak dengan format 
       System.out.printf("tahun lahir  : %d%n",tahun);
