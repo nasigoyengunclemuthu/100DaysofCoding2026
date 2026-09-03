@@ -9,20 +9,19 @@ public class biodatadiri {
       System.out.println("-------------");
       System.out.println(" biodatadiri ");
       System.out.println("-------------");
-      System.out.println("nama   : " + abi mael al rajab); 
+      System.out.println("nama   : " + "abi mael al rajab"); 
 
       //Print itu na cetak tapi ndak pindah garis
       System.out.print("nama : ");
-      System.out.println(Abi mael al rajab);
+      System.out.println("Abi mael al rajab");
 
-      //Printf itu na cetak dengan format 
-      System.out.printf("tahun lahir  : %d%n",tahun);
-      System.out.printf("universitas  : %s%n",univ);
-      System.out.printf("fakultas     : %s%n",teknik);
-      System.out.printf("prodi        : %s%n",prodi);
+      //Printf itu na cetak dengan format
+      System.out.printf("universitas  : %s%n","unsulbar");
+      System.out.printf("fakultas     : %s%n","teknik");
+      System.out.printf("prodi        : %s%n","informatika");
      
       /* %s = untuk teks/String
-       * %d = untuk angka bulat/Int
+       * %d = untuk angka bulat/int
        * %n = untuk pindah baris
       */
   }
