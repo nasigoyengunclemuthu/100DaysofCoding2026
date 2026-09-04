@@ -1,0 +1,17 @@
+public class day3 {
+  public static void main(String[] agrs) {
+  //pengguna escape sequence
+    // \n untuk membuat baris baru
+    System.out.println("baris pertama\nbaris kedua");
+      //contoh
+    System.out.println("universitas\nsulawesi barat");
+    // /t untuk taro space
+      System.out.println("nama:\tabi mael al rajab");
+    // \" untuk menambahkan tanda kutip 
+    System.out.println("\n\"saya belajar java");
+    // \\ untuk menampilkan backslash \
+    System.out.print("folder:C:\\user\\100daycoding\\day1");
+    // \' untuk menampilkan tanda kutip satu 'contoh'
+    System.out.println("\'abi\'");
+  }
+}
