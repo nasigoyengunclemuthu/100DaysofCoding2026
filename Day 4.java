@@ -1,5 +1,5 @@
 public class day4 {
-  public static void main(String[] agrs){
+  public static void main(String[] agrs) {
     //tipe data numerik bilangan bulat 
     byte umur = 18;
     short tahun = 2026;
