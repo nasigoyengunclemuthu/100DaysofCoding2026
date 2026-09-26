@@ -4,7 +4,7 @@ public class Main {
         int a = 1;
         int b = 2;
 
-        System.out.println("Penjumlahan : " + (a * b));
-        System.out.println("Pengurangan : " + (a / b));
+        System.out.println("Perkalian : " + (a * b));
+        System.out.println("pembagian : " + (a / b));
     }
 }
